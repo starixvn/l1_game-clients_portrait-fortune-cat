@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "总奖金",
         "Unexpected_gift_code_error_message": "发生意外错误。请稍后重试。",
         "Close": "关闭"
+    },
+    "FortuneCat": {
+        "game_name": "招财猫",
+        "game_icon_name": "招财猫"
     }
 };
 

@@ -4064,8 +4064,8 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 59,
-      "height": 483
+      "width": 60,
+      "height": 436
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -4173,8 +4173,8 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 59,
-      "height": 479
+      "width": 60,
+      "height": 436
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -7453,8 +7453,8 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -360,
-      "y": -4,
+      "x": -369.526,
+      "y": -1.2779999999999987,
       "z": 0
     },
     "_lrot": {
@@ -7492,8 +7492,8 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 62,
-      "height": 62
+      "width": 70,
+      "height": 80
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -7528,7 +7528,7 @@
     },
     "_type": 0,
     "_fillType": 0,
-    "_sizeMode": 0,
+    "_sizeMode": 2,
     "_fillCenter": {
       "__type__": "cc.Vec2",
       "x": 0,
@@ -7553,10 +7553,10 @@
     "__prefab": null,
     "_alignFlags": 12,
     "_target": null,
-    "_left": 2,
+    "_left": -11.52600000000001,
     "_right": 0,
     "_top": 24,
-    "_bottom": 15,
+    "_bottom": 8.722,
     "_horizontalCenter": 0,
     "_verticalCenter": 0,
     "_isAbsLeft": true,
@@ -7595,8 +7595,8 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 360,
-      "y": -4,
+      "x": 370.942,
+      "y": -0.09200000000000585,
       "z": 0
     },
     "_lrot": {
@@ -7634,8 +7634,8 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 62,
-      "height": 62
+      "width": 70,
+      "height": 80
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -7670,7 +7670,7 @@
     },
     "_type": 0,
     "_fillType": 0,
-    "_sizeMode": 0,
+    "_sizeMode": 2,
     "_fillCenter": {
       "__type__": "cc.Vec2",
       "x": 0,
@@ -7696,9 +7696,9 @@
     "_alignFlags": 36,
     "_target": null,
     "_left": 0,
-    "_right": 2,
+    "_right": -12.942000000000007,
     "_top": 0,
-    "_bottom": 15,
+    "_bottom": 9.907999999999996,
     "_horizontalCenter": 0,
     "_verticalCenter": 0,
     "_isAbsLeft": true,

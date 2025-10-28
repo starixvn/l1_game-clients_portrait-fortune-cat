@@ -9,7 +9,7 @@ if __name__ == '__main__':
     project_dir = os.path.join(current_dir, '')
 
     # images_dir = ".\images\standard-slot-game"
-    images_dir = "..\src\extensions\shared-classic-slot\graphics\shared-standard-slot"
+    images_dir = ".\images\standard-slot-game"
 
     # Pack.
     packer_path = os.path.join(
@@ -18,7 +18,8 @@ if __name__ == '__main__':
     )
 
     # outputPath = os.path.join(project_dir, '..\\', 'src\\assets\\resources\\textures')
-    outputPath = os.path.join(project_dir, '..\\', 'src\extensions\shared-classic-slot\\assets\\classic-slot-bundle\\v-portrait\images\\')
+    # outputPath = os.path.join(project_dir, '..\\', 'src\extensions\shared-classic-slot\\assets\\classic-slot-bundle\\v-portrait\images\\')
+    outputPath = os.path.join(project_dir, '..\\', 'src\\assets\\resources\\textures')
     subprocess.Popen([
         'node',
         packer_path,

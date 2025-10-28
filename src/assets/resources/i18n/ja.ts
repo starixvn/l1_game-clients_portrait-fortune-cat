@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "合計勝利額",
         "Unexpected_gift_code_error_message": "予期せぬエラーが発生しました。後ほどもう一度お試しください。",
         "Close": "閉じる"
+    },
+    "FortuneCat": {
+        "game_name": "Fortune Cat",
+        "game_icon_name": "Fortune Cat"
     }
 };
 
