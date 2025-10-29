@@ -708,7 +708,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:5a298d1b1b2210aa8054c1841e65a62c:6760c18dea6bdfb0d9db3202a874d367:d2119907fc422292afb660fc3c3e380f$</string>
+            <string>$TexturePacker:SmartUpdate:dde432cd44de63d5c9c783c305ad0625:905fdf239cc23bac9d84a3f2b5197031:d2119907fc422292afb660fc3c3e380f$</string>
             <key>textureFileName</key>
             <string>standard-slot-game.png</string>
         </dict>
