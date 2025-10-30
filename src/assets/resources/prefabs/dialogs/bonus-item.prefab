@@ -173,7 +173,7 @@
       "__uuid__": "4aa33023-e72e-46e5-99a9-412b41c9144a",
       "__expectedType__": "sp.SkeletonData"
     },
-    "defaultSkin": "",
+    "defaultSkin": "default",
     "defaultAnimation": "",
     "_premultipliedAlpha": false,
     "_timeScale": 1,
