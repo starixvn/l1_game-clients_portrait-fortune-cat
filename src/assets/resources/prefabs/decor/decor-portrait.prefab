@@ -402,8 +402,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 431,
-      "height": 454
+      "width": 960,
+      "height": 960
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -417,7 +417,7 @@
     "fileId": "a14YI0fcVFt6UEr7bZC5+w"
   },
   {
-    "__type__": "cc.Sprite",
+    "__type__": "sp.Skeleton",
     "_name": "",
     "_objFlags": 0,
     "__editorExtras__": {},
@@ -438,28 +438,28 @@
       "b": 255,
       "a": 255
     },
-    "_spriteFrame": {
-      "__uuid__": "225d7b5d-8317-413e-97d0-1c35ce9a9b1c@f9941",
-      "__expectedType__": "cc.SpriteFrame"
+    "_skeletonData": {
+      "__uuid__": "b1c4b715-e47f-4dcf-9618-c04fb5ebb845",
+      "__expectedType__": "sp.SkeletonData"
     },
-    "_type": 0,
-    "_fillType": 0,
-    "_sizeMode": 1,
-    "_fillCenter": {
-      "__type__": "cc.Vec2",
-      "x": 0,
-      "y": 0
-    },
-    "_fillStart": 0,
-    "_fillRange": 0,
-    "_isTrimmedMode": true,
-    "_useGrayscale": false,
-    "_atlas": null,
+    "defaultSkin": "default",
+    "defaultAnimation": "show",
+    "_premultipliedAlpha": false,
+    "_timeScale": 1,
+    "_preCacheMode": 0,
+    "_cacheMode": 0,
+    "_sockets": [],
+    "_useTint": false,
+    "_debugMesh": false,
+    "_debugBones": false,
+    "_debugSlots": false,
+    "_enableBatch": false,
+    "loop": true,
     "_id": ""
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "f3QGT8WxVA1b3MXL34VKOL"
+    "fileId": "92LKhf0WZCUoHIiLsbu+K2"
   },
   {
     "__type__": "cc.PrefabInfo",
